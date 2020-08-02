@@ -1,1 +1,5 @@
-# Write your #display_rainbow method here
+def display_rainbow(colors)
+
+end
+
+colors = ["red", "orange", "green", "blue", "indigo", "violet"]
